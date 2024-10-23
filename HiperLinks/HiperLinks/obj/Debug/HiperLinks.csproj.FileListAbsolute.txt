@@ -1,0 +1,10 @@
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\bin\Debug\HiperLinks.exe.config
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\bin\Debug\HiperLinks.exe
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\bin\Debug\HiperLinks.pdb
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\obj\Debug\HiperLinks.csproj.AssemblyReference.cache
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\obj\Debug\HiperLinks.Form1.resources
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\obj\Debug\HiperLinks.Properties.Resources.resources
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\obj\Debug\HiperLinks.csproj.GenerateResource.cache
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\obj\Debug\HiperLinks.csproj.CoreCompileInputs.cache
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\obj\Debug\HiperLinks.exe
+C:\Users\1409-2\Desktop\Teodor Spasov 12a\HiperLinks\HiperLinks\obj\Debug\HiperLinks.pdb
